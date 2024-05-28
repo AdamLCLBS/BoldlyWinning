@@ -1,0 +1,63 @@
+.bg-gris{
+    background-color: #545454;
+}
+
+body{
+    background-color: black!important;
+    color: white!important;
+}
+h1{
+    padding: 20px 0px 20px 0;
+}
+
+.image-accueil{
+    height: 300px;
+    width: 100%;
+    
+
+}
+
+.nav-link{
+    border-radius: 5%;
+    padding: 20px 0 20px 0;
+    margin: 0px 20px 0 20px;
+    transition: 1s ease;
+}
+
+.nav-link:hover{
+    border-bottom: 2px solid #ff3131!important;
+}
+
+.overflow-container {
+    max-height: 600px; /* Définissez la hauteur maximale que vous souhaitez pour votre liste */
+    overflow-y: auto; /* Activer le défilement vertical lorsque nécessaire */
+}
+
+
+#tableauimage{
+    height: 50px;
+    width: 50px;
+}
+
+main{
+    min-height: 80vh;
+}
+
+.tailletitre{
+    min-height: 70px;
+}
+
+footer{
+    text-align: center;
+    color: white!important;
+}
+
+footer section div a{
+    text-decoration: none!important;
+    color: white!important;
+}   
+
+#footerlogo{
+    height: 125px;
+    width: 150px;
+}
